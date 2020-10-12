@@ -7,7 +7,10 @@ public class HelloWorld {
 		System.out.println("changes made on github");
 		
 		System.out.println("trial for multiple pushing");
-
+		
+		System.out.println("From another repository");
+		
+		
 	}
 
 }
